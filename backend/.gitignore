@@ -16,7 +16,7 @@ dist/
 build/
 
 # Uploaded files directory (optional, if you don't want to track uploads)
-uploads/
+# uploads/
 
 # OS-specific files
 .DS_Store
