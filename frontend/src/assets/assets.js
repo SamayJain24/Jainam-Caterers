@@ -9,7 +9,7 @@ import menu_4 from './Matthi.png'
 import menu_5 from './Gujiya.jpg'
 import menu_6 from './Laddoo.jpg'
 import menu_7 from './Gond.jpg'
-import menu_8 from './Halwa.jpg'
+import menu_8 from './halwa.jpg'
 
 import food_1 from './food_1.png'
 import food_2 from './food_2.png'
