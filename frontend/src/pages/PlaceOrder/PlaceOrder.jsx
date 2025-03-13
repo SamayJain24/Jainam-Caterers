@@ -75,7 +75,7 @@ const PlaceOrder = () => {
                 order_id: order_id,
                 handler: function(response) {
                     // Handle successful payment
-                    window.location.href = "http://localhost:5173/verify?success=true&orderId=" + response.razorpay_order_id;
+                    window.location.href = "https://jainam-caterers-backend.onrender.com/verify?success=true&orderId=" + response.razorpay_order_id;
                 },
                 prefill: {
                     name: data.firstName + " " + data.lastName,
