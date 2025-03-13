@@ -8,7 +8,14 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, vitae ipsam unde aspernatur quia blanditiis, obcaecati reiciendis non quam tenetur necessitatibus nobis fuga? Magnam praesentium porro reiciendis fuga harum facere.</p>
+                <p>Jainam Caterers is dedicated to bringing you the purest and most authentic flavors in every bite. We specialize in samosas, kachoris, namakpare, and a variety of traditional snacks, all crafted with the highest standards of cleanliness and purity.
+
+✨ Our Promise:
+✅ 100% Pure Vegetarian (No Onion & No Garlic)
+✅ No chemical additives or preservatives
+✅ Freshly made with hygienic practices
+
+At Jainam Caterers, we take pride in serving wholesome, satvik food that preserves the rich flavors of tradition while ensuring quality and freshness. Taste the purity with every bite!</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
