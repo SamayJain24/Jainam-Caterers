@@ -99,8 +99,8 @@ Feel free to **fork** this repository, raise **issues**, and submit **pull reque
 
 ## 📩 Contact
 For any queries, feel free to reach out:
-✉️ Email: your-email@example.com  
-📌 GitHub: [your-username](https://github.com/your-username)  
+✉️ Email: samayjain2405@gmail.com  
+📌 GitHub: [SamayJain24](https://github.com/SamayJain24)  
 
 ---
 
