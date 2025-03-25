@@ -78,7 +78,7 @@ npm start  # Runs on http://localhost:4000
 ## 🌍 Deployment
 
 The project is **deployed on Render**:
-- **Frontend:** [Your Website Link](https://jainamcaterers.onrender.com/)
+- **Frontend:** [Jainam Caterers](https://jainamcaterers.onrender.com/)
 - **Backend:** Hosted on Render
 - **Database:** MongoDB Atlas
 
